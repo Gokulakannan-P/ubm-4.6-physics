@@ -3,6 +3,9 @@
 This repository contains the numerical proofs and simulation scripts for the 
 **Unified Buffer Model 4.6** as submitted to Physical Review D (Letters).
 
+## Topics:
+theoretical-physics, dhost-gravity, general-relativity, dark-matter-alternative, juice-mission.
+
 ## Code-to-Figure Mapping
 - **Figure 1 (SO(10) Unification):** See `notebooks/01_RGE_Unification.ipynb`. 
   Uses $\xi = -1.21 \times 10^{-12}$ to match PDG 2024 $\alpha_s(M_Z)$.
