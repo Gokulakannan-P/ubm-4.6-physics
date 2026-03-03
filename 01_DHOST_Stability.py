@@ -1,7 +1,7 @@
 """
-Unified Buffer Model (UBM) 4.6 - DHOST Class Ia Stability Proof
-Verification of Kinetic Stability (Q > 0) and Degeneracy Constraints.
-Target: Physical Review D (Letters) - 2026
+UBM 4.6 Stability Analysis
+Verifies the DHOST Class Ia ghost-free condition and kinetic stability.
+Matches results in Figure 2 of the corresponding PRD Letter.
 """
 
 import sympy as sp
