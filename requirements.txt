@@ -1,2 +1,4 @@
-numpy
-matplotlib
+# UBM 4.6 Physical Review D - Environment Dependencies
+numpy>=1.24.0
+matplotlib>=3.7.0
+sympy>=1.12
